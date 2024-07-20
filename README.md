@@ -12,7 +12,7 @@ _JAVASCRIPT OOP OBJECT PROJECT_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/kestgrig/opp
+Site published at: https://github.com/kestgrig/oop
 
 ## 🎯 Project features/goals
 
