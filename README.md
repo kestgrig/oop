@@ -18,6 +18,7 @@ Site published at: https://github.com/kestgrig/oop
 
 -   Github pages
 -   JavaScript object
+-   JavaScript class
 
 ## 🧰 Getting Started
 
